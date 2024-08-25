@@ -1,10 +1,10 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# Crie o o seu proprio plano de fundo 🌌
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este projeto visa fornecer uma ferramenta para criar a imagem que vc quiser!
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- IA Generativa **[(DALL-E Mini](https://huggingface.co/spaces/dalle-mini/dalle-mini)** para criação das imagens;
 - IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
 - Ferramenta **Libre Office** para edição.
 
